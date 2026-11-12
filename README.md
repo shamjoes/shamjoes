@@ -58,21 +58,49 @@
 
 ---
 
-### ⚙️ Technologies
+### ⚙️ Technologies & Tools
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/EMBEDDED_C-000000?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C_(C99)-000000?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/ARM_LPC2129-000000?style=for-the-badge&logo=arm&logoColor=white" />
-<img src="https://img.shields.io/badge/DATA_STRUCTURES-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/KEIL_UVISION-000000?style=for-the-badge&logo=microchip&logoColor=white" />
-<img src="https://img.shields.io/badge/GCC_MAKEFILE-000000?style=for-the-badge&logo=gnu&logoColor=white" />
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C Language">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/Embedded_C" target="_blank" title="Embedded C">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="Embedded C" width="48" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.arm.com/" target="_blank" title="ARM Architecture (LPC2129)">
+  <img src="https://cdn.simpleicons.org/arm/0091BD" alt="ARM" width="48" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linux.org/" target="_blank" title="Linux">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://gcc.gnu.org/" target="_blank" title="GCC & Makefile">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="GCC" width="48" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="48" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.python.org/" target="_blank" title="Python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank" title="Git">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.java.com/" target="_blank" title="Java">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://cmake.org/" target="_blank" title="CMake">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" width="48" height="48" />
+</a>
 
 </div>
 
