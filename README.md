@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20shamjosephraj%27s%20Github%20</>&fontAlign=50&fontAlignY=42&color=0:0b0c10,50:1f2833,100:0b0c10&stroke=45a29e&fontColor=ffffff&fontSize=30" width="100%" />
+<img src="assets/matrix_banner.gif" width="100%" alt="Header Banner" />
 
 <br/>
 
