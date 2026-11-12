@@ -3,29 +3,6 @@
 <!-- HEADER BANNER -->
 <img src="assets/matrix_banner.gif" width="100%" alt="Header Banner" />
 
-<br/>
-
-<!-- DYNAMIC TYPING SUBTITLE -->
-<a href="https://github.com/shamjoes">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=45A29E&center=true&vCenter=true&width=500&height=40&lines=B.E.+Computer+Science+Graduate;Embedded+Systems+Engineer;ARM7+(LPC2129)+%7C+Embedded+C;Data+Structures+%26+Linux+Toolchain" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:shamjosephraj@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/shamjoes">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/shamjoes/mypreprocessor">
-  <img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=gitbook&logoColor=white" />
-</a>
-
 </div>
 
 <br/>
